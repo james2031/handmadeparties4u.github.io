@@ -1,0 +1,255 @@
+.mediaViewInfo {
+	--web-view-name: booking ;
+	--web-view-id: booking_;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: booking_;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#booking_ {
+	position: absolute;
+	width: 1920px;
+	height: 911px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: booking ;
+	--web-view-id: booking_;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 128px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 59px;
+	left: 0px;
+	top: 128px;
+}
+#Packages {
+	position: absolute;
+	left: 515px;
+	top: 138px;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: packages.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(74,216,219,1);
+}
+#About {
+	position: absolute;
+	left: 1029px;
+	top: 138px;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: About_.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(74,216,219,1);
+}
+#Extras {
+	position: absolute;
+	left: 789px;
+	top: 139px;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(74,216,219,1);
+}
+#Booking {
+	position: absolute;
+	left: 1264px;
+	top: 138px;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(46,155,160,1);
+}
+#logo {
+	position: absolute;
+	width: 295px;
+	height: 99px;
+	left: 813px;
+	top: 11px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#Booking_f {
+	position: absolute;
+	left: 197px;
+	top: 227px;
+	overflow: visible;
+	width: 288px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 70px;
+	color: rgba(46,155,160,1);
+}
+.Line_20 {
+	overflow: visible;
+	position: absolute;
+	width: 247px;
+	height: 5px;
+	left: 196.5px;
+	top: 297.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome_facebook_square {
+	overflow: visible;
+	position: absolute;
+	width: 63.596px;
+	height: 63.596px;
+	left: 512px;
+	top: 470.547px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Contact_us_anytime_for_a_free_ {
+	position: absolute;
+	left: 324px;
+	top: 722px;
+	overflow: visible;
+	width: 1273px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(46,155,160,1);
+}
+#www_facebook_com_handmadeparti {
+	position: absolute;
+	left: 615px;
+	top: 478px;
+	overflow: visible;
+	width: 794px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(13,76,124,1);
+}
+.Icon_ionic_md_mail_open {
+	overflow: visible;
+	position: absolute;
+	width: 63.596px;
+	height: 54.511px;
+	left: 514px;
+	top: 609.989px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#handmadeparties4u_gmail_com {
+	position: absolute;
+	left: 617px;
+	top: 616px;
+	overflow: visible;
+	width: 641px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(13,76,124,1);
+}
+.Icon_material_local_phone {
+	overflow: visible;
+	position: absolute;
+	width: 63.898px;
+	height: 63.898px;
+	left: 514px;
+	top: 331.227px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID0410_637_518 {
+	position: absolute;
+	left: 617px;
+	top: 340px;
+	overflow: visible;
+	width: 239px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(13,76,124,1);
+	letter-spacing: 0.4px;
+}
+#Screen_Shot_2020_05_01_at_8_15 {
+	position: absolute;
+	width: 692px;
+	height: 93px;
+	left: 1117px;
+	top: 18px;
+	overflow: visible;
+}
+#Screen_Shot_2020_05_01_at_8_15_gb {
+	position: absolute;
+	width: 692px;
+	height: 93px;
+	left: 112px;
+	top: 18px;
+	overflow: visible;
+}

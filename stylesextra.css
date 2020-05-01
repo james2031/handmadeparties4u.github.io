@@ -1,0 +1,752 @@
+.mediaViewInfo {
+	--web-view-name: Extras ;
+	--web-view-id: Extras_;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Extras_;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Extras_ {
+	position: absolute;
+	width: 1920px;
+	height: 2668px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Extras ;
+	--web-view-id: Extras_;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 128px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 59px;
+	left: 0px;
+	top: 128px;
+}
+#logo {
+	position: absolute;
+	width: 295px;
+	height: 99px;
+	left: 813px;
+	top: 11px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.Line_20 {
+	overflow: visible;
+	position: absolute;
+	width: 219px;
+	height: 5px;
+	left: 196.5px;
+	top: 297.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Extras {
+	position: absolute;
+	left: 197px;
+	top: 227px;
+	overflow: visible;
+	width: 219px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 70px;
+	color: rgba(46,155,160,1);
+}
+#Themed_bag_including_choice_of {
+	position: absolute;
+	left: 190px;
+	top: 1128px;
+	overflow: visible;
+	width: 782px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,76,124,1);
+}
+#_ {
+	position: absolute;
+	left: 196px;
+	top: 1762px;
+	overflow: visible;
+	width: 1px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(46,155,160,1);
+}
+#Traditional_games__Pass_the_Pa {
+	position: absolute;
+	left: 190px;
+	top: 1721px;
+	overflow: visible;
+	width: 1072px;
+	height: 140px;
+	line-height: 52px;
+	margin-top: -11px;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,76,124,1);
+}
+#__5 {
+	position: absolute;
+	left: 1609px;
+	top: 1128px;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(83,87,87,1);
+}
+#__5_ei {
+	position: absolute;
+	left: 1609px;
+	top: 1593px;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(83,87,87,1);
+}
+#_20 {
+	position: absolute;
+	left: 1598px;
+	top: 1843px;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(83,87,87,1);
+}
+#__40 {
+	position: absolute;
+	left: 1591px;
+	top: 2248px;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(83,87,87,1);
+}
+#Guest_goodie_bags_ {
+	position: absolute;
+	left: 190px;
+	top: 1079px;
+	overflow: visible;
+	width: 349px;
+	white-space: nowrap;
+	line-height: 126px;
+	margin-top: -43px;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(46,155,160,1);
+}
+#Craft_kits {
+	position: absolute;
+	left: 190px;
+	top: 1500px;
+	overflow: visible;
+	width: 186px;
+	white-space: nowrap;
+	line-height: 126px;
+	margin-top: -43px;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(46,155,160,1);
+}
+#Pi_ata {
+	position: absolute;
+	left: 190px;
+	top: 2206px;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	line-height: 126px;
+	margin-top: -43px;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(46,155,160,1);
+}
+#Custom_themed_Pi_ata_including {
+	position: absolute;
+	left: 190px;
+	top: 2248px;
+	overflow: visible;
+	width: 575px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,76,124,1);
+}
+#Party_games {
+	position: absolute;
+	left: 190px;
+	top: 1669px;
+	overflow: visible;
+	width: 238px;
+	white-space: nowrap;
+	line-height: 126px;
+	margin-top: -43px;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(46,155,160,1);
+}
+#and_crowns__to_animals_or_cars {
+	position: absolute;
+	left: 190px;
+	top: 1593px;
+	overflow: visible;
+	width: 444px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,76,124,1);
+}
+#Kits_including_all_the_bits_yo {
+	position: absolute;
+	left: 190px;
+	top: 1552px;
+	overflow: visible;
+	width: 959px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,76,124,1);
+}
+#ID20190407_172921 {
+	opacity: 0.843;
+	position: absolute;
+	width: 322px;
+	height: 256px;
+	left: 272px;
+	top: 1895px;
+	overflow: visible;
+}
+#ID20190225_133741__1_ {
+	opacity: 0.843;
+	position: absolute;
+	width: 322px;
+	height: 256px;
+	left: 272px;
+	top: 1189px;
+	overflow: visible;
+}
+#ID20190815_202335 {
+	opacity: 0.843;
+	position: absolute;
+	width: 322px;
+	height: 256px;
+	left: 272px;
+	top: 2317px;
+	overflow: visible;
+}
+#ID20180919_154108 {
+	opacity: 0.843;
+	position: absolute;
+	width: 323px;
+	height: 256px;
+	left: 623px;
+	top: 1895px;
+	overflow: visible;
+}
+#ID20190605_204601 {
+	opacity: 0.843;
+	position: absolute;
+	width: 323px;
+	height: 256px;
+	left: 623px;
+	top: 1189px;
+	overflow: visible;
+}
+#ID20190604_191253 {
+	opacity: 0.843;
+	position: absolute;
+	width: 323px;
+	height: 256px;
+	left: 623px;
+	top: 2318px;
+	overflow: visible;
+}
+#ID20190203_090549 {
+	opacity: 0.843;
+	position: absolute;
+	width: 323px;
+	height: 256px;
+	left: 975px;
+	top: 1895px;
+	overflow: visible;
+}
+#ID20180303_083744 {
+	opacity: 0.843;
+	position: absolute;
+	width: 323px;
+	height: 256px;
+	left: 975px;
+	top: 1189px;
+	overflow: visible;
+}
+#ID20190909_142211 {
+	opacity: 0.843;
+	position: absolute;
+	width: 323px;
+	height: 256px;
+	left: 975px;
+	top: 2317px;
+	overflow: visible;
+}
+#ID20190914_212232 {
+	opacity: 0.843;
+	position: absolute;
+	width: 322px;
+	height: 256px;
+	left: 1327px;
+	top: 1895px;
+	overflow: visible;
+}
+#ID20180406_100914 {
+	opacity: 0.843;
+	position: absolute;
+	width: 322px;
+	height: 256px;
+	left: 1327px;
+	top: 1189px;
+	overflow: visible;
+}
+#ID20180424_194926 {
+	opacity: 0.843;
+	position: absolute;
+	width: 322px;
+	height: 256px;
+	left: 1327px;
+	top: 2318px;
+	overflow: visible;
+}
+#All_face_painting_bookings_inc {
+	position: absolute;
+	left: 190px;
+	top: 376px;
+	overflow: visible;
+	width: 1155px;
+	white-space: nowrap;
+	line-height: 60px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,76,124,1);
+}
+#Face_painting_and_entertainmen {
+	position: absolute;
+	left: 190px;
+	top: 328px;
+	overflow: visible;
+	width: 643px;
+	white-space: nowrap;
+	line-height: 126px;
+	margin-top: -43px;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(46,155,160,1);
+}
+#ID20_____Guests {
+	position: absolute;
+	left: 639px;
+	top: 523px;
+	overflow: visible;
+	width: 162px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,76,124,1);
+}
+#ID15___19__Guests {
+	position: absolute;
+	left: 611px;
+	top: 479px;
+	overflow: visible;
+	width: 191px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,76,124,1);
+}
+#ID10___14__Guests {
+	position: absolute;
+	left: 608px;
+	top: 435px;
+	overflow: visible;
+	width: 193px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,76,124,1);
+}
+#ID1_hour {
+	position: absolute;
+	left: 191px;
+	top: 435px;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,76,124,1);
+	letter-spacing: -0.05px;
+}
+#ID1_5_hour {
+	position: absolute;
+	left: 191px;
+	top: 479px;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,76,124,1);
+	letter-spacing: -0.05px;
+}
+#ID2_hour {
+	position: absolute;
+	left: 190px;
+	top: 523px;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,76,124,1);
+	letter-spacing: -0.05px;
+}
+#_140 {
+	position: absolute;
+	left: 1156px;
+	top: 435px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(83,87,87,1);
+	letter-spacing: -0.05px;
+}
+#_180 {
+	position: absolute;
+	left: 1156px;
+	top: 479px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(83,87,87,1);
+	letter-spacing: -0.05px;
+}
+#_220 {
+	position: absolute;
+	left: 1156px;
+	top: 523px;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(83,87,87,1);
+	letter-spacing: -0.05px;
+}
+#_10_per_15minutes_overtime_and {
+	position: absolute;
+	left: 191px;
+	top: 567px;
+	overflow: hidden;
+	width: 906px;
+	height: 58px;
+	line-height: 40px;
+	margin-top: -10px;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(13,76,124,1);
+	letter-spacing: -0.05px;
+}
+#Kylie_is_more_than_happy_to_st {
+	position: absolute;
+	left: 190px;
+	top: 664px;
+	overflow: visible;
+	width: 1121px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,76,124,1);
+	letter-spacing: -0.05px;
+}
+#Our_face_paints_and_tools_are_ {
+	position: absolute;
+	left: 190px;
+	top: 615px;
+	overflow: hidden;
+	width: 1455px;
+	height: 48px;
+	line-height: 40px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,76,124,1);
+	letter-spacing: -0.05px;
+}
+#ID20190617_144850 {
+	opacity: 0.843;
+	position: absolute;
+	width: 322px;
+	height: 256px;
+	left: 272px;
+	top: 780px;
+	overflow: visible;
+}
+#ID20181002_152111 {
+	opacity: 0.843;
+	position: absolute;
+	width: 323px;
+	height: 256px;
+	left: 623px;
+	top: 780px;
+	overflow: visible;
+}
+#ID20181002_162617 {
+	opacity: 0.843;
+	position: absolute;
+	width: 323px;
+	height: 256px;
+	left: 975px;
+	top: 780px;
+	overflow: visible;
+}
+#ID20191016_164256 {
+	opacity: 0.843;
+	position: absolute;
+	width: 322px;
+	height: 256px;
+	left: 1327px;
+	top: 780px;
+	overflow: visible;
+}
+#Packages {
+	position: absolute;
+	left: 515px;
+	top: 138px;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: packages.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(74,216,219,1);
+}
+#About {
+	position: absolute;
+	left: 1029px;
+	top: 138px;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: About_.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(74,216,219,1);
+}
+#Extras_fo {
+	position: absolute;
+	left: 789px;
+	top: 139px;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(46,155,160,1);
+}
+#Booking {
+	position: absolute;
+	left: 1264px;
+	top: 138px;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: booking_.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: MADE Sunflower;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(74,216,219,1);
+}
+#Screen_Shot_2020_05_01_at_8_15 {
+	position: absolute;
+	width: 692px;
+	height: 93px;
+	left: 1117px;
+	top: 18px;
+	overflow: visible;
+}
+#Screen_Shot_2020_05_01_at_8_15_fr {
+	position: absolute;
+	width: 692px;
+	height: 93px;
+	left: 112px;
+	top: 18px;
+	overflow: visible;
+}
